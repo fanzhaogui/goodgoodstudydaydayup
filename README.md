@@ -2,8 +2,8 @@
 PHP design pattern 设计模式
 
 
-- 实验楼 [herf](https://www.shiyanlou.com)
-- 图说设计模式 -- Graphic Design Patterns
+- 实验楼 [href](https://www.shiyanlou.com)
+- 图说设计模式 -- Graphic Design Patterns [href](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 
 1. UML
 2. 工厂模式
