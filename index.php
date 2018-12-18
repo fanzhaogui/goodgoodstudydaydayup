@@ -14,8 +14,19 @@
 //require_once "DrawingAPI.class.php";
 //require_once "Component.class.php";
 require_once "lession_two/Strategy.php";
+require_once "lession_two/Bubble.php";
+require_once "lession_two/Fibonacci.php";
 
+$context = new Context();
+// 冒泡
+$bubble = new Bubble([1,5,6,7,4,5,66,77,43,2,3,4,55,323,452,332,2,123231,11,23,3]);
+$context->setStrategy($bubble);
+$context->using();
 
+// 斐波拉契数列
+$fibonacci = new Fibonacci(10);
+$context->setStrategy($fibonacci);
+$context->using();
 
 
 

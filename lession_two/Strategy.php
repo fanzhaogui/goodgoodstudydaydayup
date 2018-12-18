@@ -48,11 +48,11 @@ class Context
     }
 }
 
-$context = new Context();
-$strategyA = new StrategyA();
-$strategyB = new StrategyB();
-$context->setStrategy($strategyA);
-$context->using();
-
-$context->setStrategy($strategyB);
-$context->using();
+//$context = new Context();
+//$strategyA = new StrategyA();
+//$strategyB = new StrategyB();
+//$context->setStrategy($strategyA);
+//$context->using();
+//
+//$context->setStrategy($strategyB);
+//$context->using();
