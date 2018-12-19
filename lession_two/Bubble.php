@@ -37,7 +37,7 @@ class Bubble extends Strategy
                 }
             }
         }
-        echo "<pre>";
+        echo "<hr/><pre>";
         print_r($this->arr);
     }
 }

@@ -36,7 +36,7 @@ class Selection extends Strategy
             $this->selectionArr[$i] = $this->selectionArr[$minIndex];
             $this->selectionArr[$minIndex] = $temp;
         }
-        echo "<pre>";
+        echo "<hr/><pre>";
         print_r($this->selectionArr);
     }
 }

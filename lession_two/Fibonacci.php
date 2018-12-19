@@ -21,6 +21,7 @@ class Fibonacci extends Strategy
 
     public function using()
     {
+        echo "<hr/>";
         for($i = 1; $i <= $this->times; $i ++) {
             // var_dump($this->arr);
             echo $this->exec($i)."\r\n";

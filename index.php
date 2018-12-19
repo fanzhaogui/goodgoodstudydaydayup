@@ -17,6 +17,7 @@ require_once "lession_two/Strategy.php";
 require_once "lession_two/Bubble.php";
 require_once "lession_two/Fibonacci.php";
 require_once "lession_two/Selection.php";
+require_once "lession_two/Insertion.php";
 
 $context = new Context();
 
@@ -36,5 +37,8 @@ $selection = new Selection($sortArr);
 $context->setStrategy($selection);
 $context->using();
 
+$insertion = new Insertion($sortArr);
+$context->setStrategy($insertion);
+$context->using();
 
 echo "<hr><br/>hello world!";
