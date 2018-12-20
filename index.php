@@ -20,6 +20,8 @@ require_once "lession_two/Selection.php";
 require_once "lession_two/Insertion.php";
 require_once "lession_two/Shell.php";
 require_once "lession_two/Merge.php";
+require_once "lession_two/Quick.php";
+
 $context = new Context();
 
 // 斐波拉契数列
@@ -52,5 +54,13 @@ $context->using();
 $merge = new Merge($sortArr);
 $context->setStrategy($merge);
 $context->using();
+
+// 6. Quick 快速排序 - TODO ...
+$quick = new Quick($sortArr);
+$context->setStrategy($quick);
+$context->using();
+
+
+
 
 echo "<hr><br/>hello world!";
