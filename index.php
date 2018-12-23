@@ -64,3 +64,6 @@ $context->using();
 
 
 echo "<hr><br/>hello world!";
+echo "<hr> demo ...<br/><hr> ";
+?>
+<a href="strategy/index.php">策略demo</a>
