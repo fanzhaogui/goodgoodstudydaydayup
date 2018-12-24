@@ -1,6 +1,27 @@
 # goodgoodstudydaydayup
 PHP design pattern 设计模式
 
+由GOF整理成《Design Patterns: Elements of Reusable Object-Oriented Software》一书；
+GOF(Gang of Four) 是 4位作者的合称；
+一般叫他们 4人帮 ；
+他们把设计模式划分为3类总共23种；
+
+- 创建型：
+
+    
+    单例、抽象工厂、建造者、工厂、原型；
+
+- 结构型：
+
+    
+    适配器、桥接、装饰、组合、外观、享元、代理；
+
+- 行为型：
+
+    
+    模版方法、命令、迭代器、观察者、中介者、
+    备忘录、解释器、状态、策略、职责链、访问者；
+
 
 - 实验楼 [href](https://www.shiyanlou.com)
 - 图说设计模式 -- Graphic Design Patterns [href](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
