@@ -4,7 +4,7 @@
  * Date: 2018/12/24
  * Time: 23:33
  */
-namespace pattern\Singleton;
+namespace andy\pattern\Singleton;
 
 /**
  * 普通类
