@@ -5,7 +5,7 @@
  * Time: 21:15
  */
 
-namespace andy\pattern\SimpleFactory;
+namespace Baijunyao\DesignPatterns\SimpleFactory;
 
 
 /**

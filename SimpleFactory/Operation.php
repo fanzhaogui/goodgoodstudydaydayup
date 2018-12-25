@@ -5,7 +5,7 @@
  * Time: 21:09
  */
 
-namespace andy\pattern\SimpleFactory;
+namespace Baijunyao\DesignPatterns\SimpleFactory;
 
 /**
  * 操作类型抽象类
