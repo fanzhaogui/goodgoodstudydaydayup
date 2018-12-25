@@ -5,7 +5,7 @@
  * Time: 21:00
  */
 
-namespace Baijunyao\DesignPatterns\SimpleFactory;
+namespace Fan\DesignPatterns\SimpleFactory;
 
 /**
  * 不好的示例

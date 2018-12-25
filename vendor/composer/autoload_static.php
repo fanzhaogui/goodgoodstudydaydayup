@@ -7,14 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInit88798c90f3cb8871fa59cc0f15b5142f
 {
     public static $prefixLengthsPsr4 = array (
-        'B' => 
+        'F' => // @see php7 以上对象下面的Fan的手写字母才能正确加载，5.4版本的可以正确加载
         array (
-            'Baijunyao\\DesignPatterns\\' => 25,
+            'Fan\\DesignPatterns\\' => 25,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Baijunyao\\DesignPatterns\\' =>
+        'Fan\\DesignPatterns\\' =>
         array (
             0 => __DIR__ . '/../..' . '/',
         ),

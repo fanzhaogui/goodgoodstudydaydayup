@@ -5,7 +5,7 @@
  * Time: 21:09
  */
 
-namespace Baijunyao\DesignPatterns\SimpleFactory;
+namespace Fan\DesignPatterns\SimpleFactory;
 
 /**
  * 操作类型抽象类

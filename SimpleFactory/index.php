@@ -5,7 +5,7 @@
  * Time: 21:22
  */
 
-namespace Baijunyao\DesignPatterns\SimpleFactory;
+namespace Fan\DesignPatterns\SimpleFactory;
 
 require_once __DIR__."/../vendor/autoload.php";
 

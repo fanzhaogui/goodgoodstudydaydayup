@@ -5,7 +5,7 @@
  * Time: 21:15
  */
 
-namespace Baijunyao\DesignPatterns\SimpleFactory;
+namespace Fan\DesignPatterns\SimpleFactory;
 
 
 /**
