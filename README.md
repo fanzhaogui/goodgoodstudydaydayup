@@ -15,7 +15,8 @@ GOF(Gang of Four) 是 4位作者的合称；
 
     
 [适配器](./ReadMd/adaptee.md)
-    桥接、装饰、组合、外观、享元、代理；
+[桥接](./ReadMd/bridge.md)
+    装饰、组合、外观、享元、代理；
 
 - 行为型：
 
