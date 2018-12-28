@@ -22,4 +22,5 @@
 
 在软件中适配器分为类适配器和对象适配器
 
+![image](../image/patterns/adaptee.jpg)
 
