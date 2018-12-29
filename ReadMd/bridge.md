@@ -33,3 +33,6 @@
 使他们都可以有独立组合
 
 ![image](../image/patterns/bridge03.jpg)
+
+
+[代码](../Bridge)

@@ -24,3 +24,7 @@
 
 ![image](../image/patterns/adaptee.jpg)
 
+[类适配器](../ClassAdapter)
+
+[对象适配器](../ObjectAdapter)
+
