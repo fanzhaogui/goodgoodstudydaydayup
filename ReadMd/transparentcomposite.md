@@ -18,29 +18,5 @@ Component ：包含树枝节点和叶子节点方法的抽象类
 Composite ：树枝级节点有子节点 示例中指Dir文件夹
 
 Leaf:叶子节点 没有子节点 示例中指File文件
-
-
 ![image](../image/patterns/transparentcomposite.jpg)
-
-
 [透明代码](../TransparentComposite)
-
-
-### 安全组合模式 Safe Composite
-
-上面讲到透明组合模式，但是我们也看到透明组合模式中多个叶子节点虽然有add方法
-
-运行的时候却是抛出错误
-
-这还是有个安全组合模式避免这种情况
-
-> 结果
-
-Component 只包含树枝节点和叶子节点公共的方法抽象类
-
-Composite 树枝节点 有子节点 示例中指Dir文件夹
-
-Leaf 叶子节点 没有子节点 示例中指File文件
-
-
-[安全代码](../SafeComposite)
