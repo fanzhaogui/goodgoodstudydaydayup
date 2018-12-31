@@ -32,5 +32,6 @@ SubSytem 子系统 示例中指File 和 Encrypt
 
 Facade 外观对象
 
+![image](../image/patterns/facade.jpg)
 
 [代码](../Facade)
