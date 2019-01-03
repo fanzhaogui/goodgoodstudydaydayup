@@ -18,10 +18,10 @@ GOF(Gang of Four) 是 4位作者的合称；
 
 [1. 适配器](./ReadMd/adaptee.md)
 [2. 桥接](./ReadMd/bridge.md)
-[3. 装饰](./ReadMd/)
+[3. 装饰](./ReadMd/decorator.md)
 [4. 组合](./ReadMd/safecomposite.md)
 [5. 外观](./ReadMd/facade.md)
-[6. 享元](./ReadMd/)
+[6. 享元](./ReadMd/flyweight.md)
 [7. 代理](./ReadMd/)
 
 - 行为型：
