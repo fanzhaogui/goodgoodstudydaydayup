@@ -26,7 +26,7 @@ GOF(Gang of Four) 是 4位作者的合称；
 
 - 行为型：
 
-[1. 模版方法](./ReadMd/)
+[1. 模版方法](./ReadMd/template.md)
 [2. 命令](./ReadMd/)
 [3. 迭代器](./ReadMd/)
 [4. 观察者](./ReadMd/)
