@@ -22,7 +22,7 @@ GOF(Gang of Four) 是 4位作者的合称；
 [4. 组合](./ReadMd/safecomposite.md)
 [5. 外观](./ReadMd/facade.md)
 [6. 享元](./ReadMd/flyweight.md)
-[7. 代理](./ReadMd/)
+[7. 代理](./ReadMd/proxy.md)
 
 - 行为型：
 
