@@ -1,5 +1,6 @@
-# goodgoodstudydaydayup
-PHP design pattern 设计模式
+# GoodGoodStudyDayDayup
+
+## 一、PHP design pattern 设计模式
 
 由GOF整理成《Design Patterns: Elements of Reusable Object-Oriented Software》一书；
 GOF(Gang of Four) 是 4位作者的合称；
@@ -51,18 +52,10 @@ GOF(Gang of Four) 是 4位作者的合称；
 - 实验楼 [href](https://www.shiyanlou.com)
 - 图说设计模式 -- Graphic Design Patterns [href](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 
-1. UML
-2. 工厂模式
-3. 建造者模式
-4. 单例模式
-5. 适配器模式 adapter pattern | wrapper
-6. 桥接模式
-7. 装饰者模式
-8. 策略模式
+[1. 看懂UML时序图](https://design-patterns.readthedocs.io/zh_CN/latest/read_uml.html) 
 
 
-
-十大经典算法 SORT
+## 二、十大经典算法 Algorithm
 
 [《一像素》href](https://www.cnblogs.com/onepixel/p/7674659.html)
 
@@ -74,6 +67,8 @@ GOF(Gang of Four) 是 4位作者的合称；
 6. 快速排序
 7. 堆排序
 
+
+## 三、待整理内容
 
 [TCP/IP 协议](https://www.cnblogs.com/onepixel/p/7092302.html)
 
