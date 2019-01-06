@@ -30,7 +30,7 @@ GOF(Gang of Four) 是 4位作者的合称；
 [1. 模版方法](./ReadMd/template.md)
 [2. 命令](./ReadMd/command.md)
 [3. 迭代器](./ReadMd/iterator.md)
-[4. 观察者](./ReadMd/)
+[4. 观察者](./ReadMd/observer.md)
 [5. 中介者](./ReadMd/)
 [6. 备忘录](./ReadMd/)
 [7. 解释器](./ReadMd/)
@@ -91,6 +91,9 @@ GOF(Gang of Four) 是 4位作者的合称；
     
     
     
+## 四、DEMO
+
+todo 写一些案例，助于理解和提升...
     
     
     
