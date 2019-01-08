@@ -5,3 +5,4 @@
 
 3. 使得对象当做数组来用[ArrayObject](http://php.net/manual/zh/class.arrayobject.php)
 
+4. 生成器 [Generator](http://php.net/manual/zh/class.generator.php)

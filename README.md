@@ -59,13 +59,16 @@ GOF(Gang of Four) 是 4位作者的合称；
 
 [《一像素》href](https://www.cnblogs.com/onepixel/p/7674659.html)
 
-1. 冒泡排序法
-2. 选择排序法
-3. 插入排序
-4. 希尔排序
-5. 归并排序
-6. 快速排序
-7. 堆排序
+[1. 冒泡排序法](./lession_two/Bubble.php)
+[2. 选择排序法](./lession_two/Selection.php)
+[3. 插入排序](./lession_two/Insertion.php)
+[4. 希尔排序](./lession_two/Shell.php)
+[5. 归并排序](./lession_two/Merge.php)
+[6. 快速排序](./lession_two/Quick.php)
+[7. 堆排序](./lession_two/Heap.php)
+[8. 计算排序](./lession_two)
+[9. 桶排序](./lession_two)
+[10. 基数排序](./lession_two)
 
 
 ## 三、待整理内容
@@ -95,7 +98,4 @@ GOF(Gang of Four) 是 4位作者的合称；
 
 todo 写一些案例，助于理解和提升...
 
-[PHP官方的类和接口](./TODO.md)
-    
-    
-    
+[好用的PHP官方的类和接口](./TODO.md)

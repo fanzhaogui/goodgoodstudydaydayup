@@ -30,3 +30,6 @@ $fibs = fib(9);
 foreach ($fibs as $fib) {
     echo " ".$fib;
 }
+
+// ====output====
+// 1 1 2 3 5 8 13 21 34
